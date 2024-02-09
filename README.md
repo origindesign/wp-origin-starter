@@ -1,4 +1,4 @@
-# Origin
+# Origin - WordPress Starter Theme
 
 Built by [Origin](https://www.originoutside.com/), powered by [WordPress](https://wordpress.org).
 
